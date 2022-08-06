@@ -1,0 +1,114 @@
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\appsettings.Development.json
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\appsettings.json
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\Workspace.API.exe
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\Workspace.API.deps.json
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\Workspace.API.runtimeconfig.json
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\Workspace.API.runtimeconfig.dev.json
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\Workspace.API.dll
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\ref\Workspace.API.dll
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\Workspace.API.pdb
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\obj\Debug\net5.0\Workspace.API.csproj.AssemblyReference.cache
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\obj\Debug\net5.0\Workspace.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\obj\Debug\net5.0\Workspace.API.AssemblyInfoInputs.cache
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\obj\Debug\net5.0\Workspace.API.AssemblyInfo.cs
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\obj\Debug\net5.0\Workspace.API.csproj.CoreCompileInputs.cache
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\obj\Debug\net5.0\Workspace.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\obj\Debug\net5.0\Workspace.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\obj\Debug\net5.0\staticwebassets\Workspace.API.StaticWebAssets.Manifest.cache
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\obj\Debug\net5.0\staticwebassets\Workspace.API.StaticWebAssets.xml
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\obj\Debug\net5.0\scopedcss\bundle\Workspace.API.styles.css
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\obj\Debug\net5.0\Workspace.API.RazorTargetAssemblyInfo.cache
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\obj\Debug\net5.0\Workspace.API.csproj.CopyComplete
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\obj\Debug\net5.0\Workspace.API.dll
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\obj\Debug\net5.0\ref\Workspace.API.dll
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\obj\Debug\net5.0\Workspace.API.pdb
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\obj\Debug\net5.0\Workspace.API.genruntimeconfig.cache
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\Humanizer.dll
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Aplicações Pessoais\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\LocalApp\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\appsettings.Development.json
+D:\LocalApp\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\appsettings.json
+D:\LocalApp\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\Workspace.API.exe
+D:\LocalApp\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\Workspace.API.deps.json
+D:\LocalApp\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\Workspace.API.runtimeconfig.json
+D:\LocalApp\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\Workspace.API.runtimeconfig.dev.json
+D:\LocalApp\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\Workspace.API.dll
+D:\LocalApp\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\Workspace.API.pdb
+D:\LocalApp\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\Humanizer.dll
+D:\LocalApp\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\LocalApp\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\LocalApp\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\LocalApp\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\LocalApp\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\LocalApp\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\LocalApp\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\LocalApp\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\LocalApp\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\LocalApp\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\LocalApp\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\LocalApp\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\LocalApp\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\LocalApp\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\LocalApp\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\LocalApp\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\LocalApp\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\LocalApp\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\LocalApp\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\LocalApp\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\LocalApp\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\LocalApp\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\LocalApp\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\LocalApp\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\LocalApp\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\LocalApp\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\LocalApp\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\LocalApp\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\LocalApp\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\LocalApp\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\LocalApp\Workspace\Backend\src\Workspace.API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\LocalApp\Workspace\Backend\src\Workspace.API\obj\Debug\net5.0\Workspace.API.csproj.AssemblyReference.cache
+D:\LocalApp\Workspace\Backend\src\Workspace.API\obj\Debug\net5.0\Workspace.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\LocalApp\Workspace\Backend\src\Workspace.API\obj\Debug\net5.0\Workspace.API.AssemblyInfoInputs.cache
+D:\LocalApp\Workspace\Backend\src\Workspace.API\obj\Debug\net5.0\Workspace.API.AssemblyInfo.cs
+D:\LocalApp\Workspace\Backend\src\Workspace.API\obj\Debug\net5.0\Workspace.API.csproj.CoreCompileInputs.cache
+D:\LocalApp\Workspace\Backend\src\Workspace.API\obj\Debug\net5.0\Workspace.API.MvcApplicationPartsAssemblyInfo.cs
+D:\LocalApp\Workspace\Backend\src\Workspace.API\obj\Debug\net5.0\Workspace.API.MvcApplicationPartsAssemblyInfo.cache
+D:\LocalApp\Workspace\Backend\src\Workspace.API\obj\Debug\net5.0\staticwebassets\Workspace.API.StaticWebAssets.Manifest.cache
+D:\LocalApp\Workspace\Backend\src\Workspace.API\obj\Debug\net5.0\staticwebassets\Workspace.API.StaticWebAssets.xml
+D:\LocalApp\Workspace\Backend\src\Workspace.API\obj\Debug\net5.0\scopedcss\bundle\Workspace.API.styles.css
+D:\LocalApp\Workspace\Backend\src\Workspace.API\obj\Debug\net5.0\Workspace.API.RazorTargetAssemblyInfo.cache
+D:\LocalApp\Workspace\Backend\src\Workspace.API\obj\Debug\net5.0\Workspace.API.csproj.CopyComplete
+D:\LocalApp\Workspace\Backend\src\Workspace.API\obj\Debug\net5.0\Workspace.API.dll
+D:\LocalApp\Workspace\Backend\src\Workspace.API\obj\Debug\net5.0\Workspace.API.pdb
+D:\LocalApp\Workspace\Backend\src\Workspace.API\obj\Debug\net5.0\Workspace.API.genruntimeconfig.cache
+D:\LocalApp\Workspace\Backend\src\Workspace.API\obj\Debug\net5.0\ref\Workspace.API.dll
+D:\LocalApp\Workspace\Backend\src\Workspace.API\obj\Debug\net5.0\refint\Workspace.API.dll
